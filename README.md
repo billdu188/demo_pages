@@ -11,7 +11,7 @@
 
 
 <h2>技术能力</h2>
-<p>专注并热爱web开发熟练掌握JavaScript,HTMML,CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。</p>
+<!--<p>专注并热爱web开发熟练掌握JavaScript,HTMML,CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。</p>
 
 <ul>
   <li>掌握的JavaScript类库：jQuery,Prototype</li>
@@ -22,6 +22,6 @@
   <li>掌握项目管理和协同工具的使用：SVN,Git</li>
   <li>掌握前端测试框架以及工具：Jasmine,Mocha</li>
   
-</ul>
+</ul>-->
 <h2>个人经历</h2>
 

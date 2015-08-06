@@ -1,3 +1,6 @@
-# demo_pages
-pages
-learn how to creat pages.
+# 个人简历
+杜炳庆的个人简历
+
+接触编程时间不长，正在努力学习前端中。github是个好东西，但还处于摸索阶段...
+<h2>自我介绍</h2>
+<p></p>

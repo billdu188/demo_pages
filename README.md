@@ -1,7 +1,6 @@
 # 个人简历
 杜炳庆的个人简历
 
-接触编程时间不长，正在努力学习前端中。github是个好东西，但还处于摸索阶段...
 <h2>个人信息</h2>
 
 <strong>姓名</strong>：杜炳庆<br/>
@@ -20,7 +19,7 @@
   <li>掌握的JavaScript模块加载器：Require.js,Browserify</li>
   <li>掌握项目构建工具：Grunt</li>
   <li>掌握项目管理和协同工具的使用：Git</li>
-  <li>掌握前端测试框架以及工具：Jasmine,Mocha</li>
+  <li>掌握前端测试框架以及工具：Mocha</li>
   <li>掌握基本的后端开发：node.js</li>
   <li>掌握web相关技术：mongodb</li>
   
